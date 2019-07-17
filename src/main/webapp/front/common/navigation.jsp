@@ -52,7 +52,7 @@
                 <a href="<%=path%>/about">关于我们</a>
             </li>
             <li>
-                <a href="<%=path%>/service">服务领域</a>
+                <a href="<%=path%>/service">公司产品</a>
             </li>
             <li>
                 <a href="<%=path%>/article">新闻动态</a>

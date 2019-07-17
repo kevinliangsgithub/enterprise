@@ -56,8 +56,8 @@
         <li class="banners_li">
             <a href="<%=path%>/service">
                 <div>
-                    <h3>服务领域</h3>
-                    <p>别墅装修，校区装修</p>
+                    <h3>公司产品</h3>
+                    <p>核心产品</p>
                 </div>
             </a>
         </li>
